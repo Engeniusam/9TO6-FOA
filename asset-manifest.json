@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/9TO6-FOA/static/css/main.506e8ecd.chunk.css",
+    "main.js": "/9TO6-FOA/static/js/main.705d69ed.chunk.js",
+    "main.js.map": "/9TO6-FOA/static/js/main.705d69ed.chunk.js.map",
+    "runtime-main.js": "/9TO6-FOA/static/js/runtime-main.33b1b105.js",
+    "runtime-main.js.map": "/9TO6-FOA/static/js/runtime-main.33b1b105.js.map",
+    "static/css/2.487d565c.chunk.css": "/9TO6-FOA/static/css/2.487d565c.chunk.css",
+    "static/js/2.7fa6266a.chunk.js": "/9TO6-FOA/static/js/2.7fa6266a.chunk.js",
+    "static/js/2.7fa6266a.chunk.js.map": "/9TO6-FOA/static/js/2.7fa6266a.chunk.js.map",
+    "index.html": "/9TO6-FOA/index.html",
+    "static/css/2.487d565c.chunk.css.map": "/9TO6-FOA/static/css/2.487d565c.chunk.css.map",
+    "static/css/main.506e8ecd.chunk.css.map": "/9TO6-FOA/static/css/main.506e8ecd.chunk.css.map",
+    "static/js/2.7fa6266a.chunk.js.LICENSE.txt": "/9TO6-FOA/static/js/2.7fa6266a.chunk.js.LICENSE.txt",
+    "static/media/delivery-guy.c0194ba7.png": "/9TO6-FOA/static/media/delivery-guy.c0194ba7.png",
+    "static/media/product_2.1.f1538554.jpg": "/9TO6-FOA/static/media/product_2.1.f1538554.jpg",
+    "static/media/product_2.2.4967c9cb.jpg": "/9TO6-FOA/static/media/product_2.2.4967c9cb.jpg",
+    "static/media/product_2.3.3914f9eb.jpg": "/9TO6-FOA/static/media/product_2.3.3914f9eb.jpg",
+    "static/media/product_3.1.9c207cdf.jpg": "/9TO6-FOA/static/media/product_3.1.9c207cdf.jpg",
+    "static/media/product_3.2.ebcb16b5.jpg": "/9TO6-FOA/static/media/product_3.2.ebcb16b5.jpg",
+    "static/media/product_3.3.f482f459.jpg": "/9TO6-FOA/static/media/product_3.3.f482f459.jpg",
+    "static/media/product_4.1.3c8ecc49.jpg": "/9TO6-FOA/static/media/product_4.1.3c8ecc49.jpg",
+    "static/media/product_4.2.e82e43e0.jpg": "/9TO6-FOA/static/media/product_4.2.e82e43e0.jpg",
+    "static/media/product_4.3.2df1cebb.png": "/9TO6-FOA/static/media/product_4.3.2df1cebb.png",
+    "static/media/remixicon.css": "/9TO6-FOA/static/media/remixicon.f2616f59.ttf",
+    "static/media/res-logo.2f9021c4.png": "/9TO6-FOA/static/media/res-logo.2f9021c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33b1b105.js",
+    "static/css/2.487d565c.chunk.css",
+    "static/js/2.7fa6266a.chunk.js",
+    "static/css/main.506e8ecd.chunk.css",
+    "static/js/main.705d69ed.chunk.js"
+  ]
+}
